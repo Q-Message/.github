@@ -46,7 +46,7 @@ Cliente móvil nativo para una experiencia de usuario fluida y segura.
 ##  Autores
 Este proyecto es el resultado del esfuerzo y aprendizaje durante el ciclo de **DAM**. 
 
-- **Hugo Palencia** - *Full Stack Developer* - [LinkedIn](https://www.linkedin.com/in/hugo-palencia-buitrago-5208a6383/) | [GitHub Personal](https://github.com/hugmega17)
+- **Hugo Palencia** - *Full Stack Developer* - [LinkedIn](https://www.linkedin.com/in/hugo-palencia-buitrago-5208a6383/) | [GitHub Personal](https://github.com/hugopalencia)
 - **Manuel Arrojo**
   
 ---
